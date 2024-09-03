@@ -1,0 +1,176 @@
+body{
+    background-color: white;
+}
+.img1{
+    margin-top: -150px;
+    margin-left: 500px;
+}
+.main h1{
+    color: hsl(300, 43%, 22%);
+    font-size: 50px;
+}
+.main{
+    margin-top: -850px;
+    width: 300px;
+    margin-left: 150px;
+}
+.main p{
+    width: 500px;
+    font-size: 20px;
+    color: hsl(303, 10%, 53%);
+}
+.main2{
+    display: grid;
+    gap: 30px;
+    margin-top: -280px;
+    margin-left: 700px;
+}
+.item{
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: hsl(300, 24%, 96%);
+}
+.two{
+    margin-left: 100px;
+}
+.three{
+    margin-left: 200px;
+}
+.term{
+    width: 320px;
+    height: 250px;
+    background-color: hsl(300, 43%, 22%);
+}
+.main3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+.five{
+    margin-top: 30px;
+}
+.six{
+    margin-top: 60px;
+}
+.ims{
+    margin-left: 25px;
+}
+.imd{
+    margin-left: 15px;
+}
+.ime{
+    margin-left: 15px;
+}
+.ima{
+    margin-left: 15px;
+}
+.sed{
+    margin-left: 15px;
+}
+.images{
+    margin-top: 15px;
+}
+.mainp{
+    margin-top: -22px;
+    margin-left: 250px;
+    font-size: 20px;
+    color: hsl(300, 43%, 22%);
+}
+.prt{
+    margin-left: 220px;
+}
+.impimg{
+    border-radius: 100%;
+    width: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.h4{
+    color: white;
+    margin-top: 40px;
+    margin-left: 85px;
+}
+#mainp{
+    color: white;
+    padding-left: 30px;
+    padding-right: 20px;
+    margin-top: 35px;
+    font-size: 18px;
+}
+@media screen and (max-width: 394px) {
+    .attribution{
+        display: none;        
+    }
+    .df{
+        display: none;
+    }
+    .img1{
+        display: none;
+    }
+    .main{
+        margin-top: 70px;
+        margin-left: 30px;
+        text-align: center;
+    }
+    #ip{
+        margin-left: -5px;
+        font-size: 20px;
+        width: 300px;
+    }
+    .main2{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .item{
+        width: 400px;
+        height: 70px;
+    }
+    .one{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .two{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .three{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .mainp{
+        margin-top: 1px;
+        margin-left: 45px;
+    }
+    .images{
+        margin-left: 50px;
+    }
+    .imd{
+        margin-left: 25px;
+    }
+    .ime{
+        margin-left: 25px;
+    }
+    .ima{
+        margin-left: 25px;
+    }
+    .sed{
+        margin-left: 25px;
+    }
+    .prt{
+        margin-left: 29px;
+    }
+    .main3{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .six{
+        margin-top: 30px;
+    }
+}
+
