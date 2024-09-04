@@ -173,5 +173,150 @@ body{
         margin-top: 30px;
     }
 }
+@media screen and (max-width: 500px) {
+    .attribution{
+        display: none;        
+    }
+    .df{
+        display: none;
+    }
+    .img1{
+        display: none;
+    }
+    .main{
+        margin-top: 70px;
+        margin-left: 30px;
+        text-align: center;
+    }
+    #ip{
+        margin-left: -5px;
+        font-size: 20px;
+        width: 300px;
+    }
+    .main2{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .item{
+        width: 400px;
+        height: 70px;
+    }
+    .one{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .two{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .three{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .mainp{
+        margin-top: 1px;
+        margin-left: 45px;
+    }
+    .images{
+        margin-left: 50px;
+    }
+    .imd{
+        margin-left: 25px;
+    }
+    .ime{
+        margin-left: 25px;
+    }
+    .ima{
+        margin-left: 25px;
+    }
+    .sed{
+        margin-left: 25px;
+    }
+    .prt{
+        margin-left: 29px;
+    }
+    .main3{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .six{
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .attribution{
+        display: none;        
+    }
+    .df{
+        display: none;
+    }
+    .img1{
+        display: none;
+    }
+    .main{
+        margin-top: 70px;
+        margin-left: 30px;
+        text-align: center;
+    }
+    #ip{
+        margin-left: -5px;
+        font-size: 20px;
+        width: 300px;
+    }
+    .main2{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .item{
+        width: 400px;
+        height: 70px;
+    }
+    .one{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .two{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .three{
+        margin-left: -690px;
+        width: 320px;
+    }
+    .mainp{
+        margin-top: 1px;
+        margin-left: 45px;
+    }
+    .images{
+        margin-left: 50px;
+    }
+    .imd{
+        margin-left: 25px;
+    }
+    .ime{
+        margin-left: 25px;
+    }
+    .ima{
+        margin-left: 25px;
+    }
+    .sed{
+        margin-left: 25px;
+    }
+    .prt{
+        margin-left: 29px;
+    }
+    .main3{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .six{
+        margin-top: 30px;
+    }
+}
 /* This Is The End Of My Code, Please Do Not Manipulate This Code */
-
